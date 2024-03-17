@@ -1,3 +1,11 @@
+h1{
+    font-size: 4.2em;
+    text-align: center;
+    font-weight: 700;
+    color: white;
+    font-family: Rufina, serif;
+}
+
 #navBackground{
     background-color: rgb(203, 178, 106);
 }
