@@ -20,16 +20,17 @@ h2{
 
 h3{
     color: black;
-    font-size: 2.4vw;
+    font-size: 2.7vw;
     font-weight: 500;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h4{
     color: black;
-    font-size: 2.4vw;
+    font-size: 1.8vw;
     font-weight: 500;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
 }
 
 a{
@@ -115,6 +116,7 @@ b{
 
 #mainPic{
     background-color: black;
+    padding-top: 5vw;
 }
 
 #mainTitleP{
@@ -124,10 +126,43 @@ b{
 }
 
 #meetTeam{
-    padding-left: 20vw;
+    padding-left: 13vw;
     padding-top: 8vw;
 }
 
 #kenPhoto{
     padding-top: 5vw;
+    padding-right: 2vw;
+}
+
+#featuredSection{
+    padding-left: 13vw;
+    padding-right: 11vw;
+}
+#featuredImg{
+    width: 100%;
+    height: 21vh;
+    object-fit: fill;
+    border-radius: 15px;
+}
+#quote{
+    background-color :rgb(203, 178, 106);
+    padding-left: 15vw;
+    padding-top: 2vw;
+    padding-right: 25vw;
+    padding-bottom: 2vw;
+}
+
+#quoteTxt{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.9vw;
+    font-weight: 500;
+    color: black;
+}
+
+#iconMain{
+    width: 3vw;
+    height: 3vh;
+    object-fit: fill;
+    border-radius: 15px;
 }
