@@ -1,3 +1,7 @@
+html{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 h1{
     font-size: 4.2em;
     text-align: center;
@@ -10,11 +14,30 @@ h2{
     color: whitesmoke;
     font-size: 2.6em;
     font-weight: 500;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+h3{
+    color: black;
+    font-size: 2.4vw;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h4{
+    color: black;
+    font-size: 2.4vw;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 a{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 0.8em;
+    font-size: 1.1vw;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.0vw;
 }
 
 
@@ -22,6 +45,7 @@ a{
     background-color: rgb(203, 178, 106);
     padding-top: 2.5vh;
     padding-bottom: 2.5vh;
+    box-shadow: 5px 0 5px black;
 }
 
 #galleryImg{
@@ -36,4 +60,49 @@ a{
     padding-left: 8vw;
     padding-right: 8vw;
     padding-bottom: 5vh;
+}
+
+#galleryLargeHouse{
+    padding-left: 20%;
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+}
+
+#galleryLargeHouseTxt{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.1vw;
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+}
+
+#galleryBackground{
+    background-color: rgb(203, 178, 106);
+}
+
+#galleryAtHome{
+    padding-top: 2vw;
+    padding-right: 10%;
+}
+
+#galleryRentalProperty{
+    background-color: whitesmoke;
+    padding-top: 3vw;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    padding-bottom: 5vh;
+}
+
+#galleryFooter{
+    background-color: black;
+}
+
+#galleryFooterTxt{
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: .7vw;
+    padding-top: 5%;
+}
+
+#footerButton{
+    padding-top: 2%;
 }
