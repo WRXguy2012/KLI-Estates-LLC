@@ -3,11 +3,12 @@ html{
 }
 
 h1{
-    font-size: 4.2em;
+    font-size: 4.2vw;
     text-align: center;
-    font-weight: 700;
+    font-weight: 500;
     color: white;
-    font-family: Rufina, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.1;
 }
 
 h2{
@@ -36,6 +37,11 @@ a{
     font-size: 1.1vw;
 }
 p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.0vw;
+}
+
+b{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 1.0vw;
 }
@@ -105,4 +111,23 @@ p{
 
 #footerButton{
     padding-top: 2%;
+}
+
+#mainPic{
+    background-color: black;
+}
+
+#mainTitleP{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.3vw;
+    color: whitesmoke;
+}
+
+#meetTeam{
+    padding-left: 20vw;
+    padding-top: 8vw;
+}
+
+#kenPhoto{
+    padding-top: 5vw;
 }
