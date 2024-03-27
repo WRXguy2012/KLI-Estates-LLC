@@ -164,5 +164,23 @@ b{
     width: 3vw;
     height: 3vh;
     object-fit: fill;
-    border-radius: 15px;
+}
+
+#ownerQuote{
+    background-color: black;
+    padding-top: 5vw;
+    padding-top: 3vw;
+}
+
+#ownerQuoteFont{
+    color: whitesmoke;
+    font-size: 2vw;
+    padding-left: 15vw;
+    padding-right: 15vw;
+}
+
+#ownerNameFont{
+    color: whitesmoke;
+    font-size: 1.5vw;
+    font-weight: 400;
 }
