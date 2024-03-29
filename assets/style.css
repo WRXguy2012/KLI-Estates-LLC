@@ -184,3 +184,31 @@ b{
     font-size: 1.5vw;
     font-weight: 400;
 }
+
+#mapHome{
+    padding-left: 15vw;
+
+}
+
+#locationHome{
+    padding-left: 10vw;
+    padding-top: 4.0vw;
+}
+
+#locationMap{
+    padding-top: 5vw;
+    padding-bottom: 5vw;
+    background-color: rgb(203, 178, 106);;
+}
+
+#connectHome{
+    padding-left: 15vw;
+    padding-top: 5vw;
+    padding-right: 15vw;
+    padding-bottom: 5vw;
+}
+
+#connectWordHome{
+    padding-top: 4vw;
+    padding-right: 6vw;
+}
